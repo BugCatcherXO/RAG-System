@@ -1,0 +1,13 @@
+# Claves y secretos
+.env
+
+# Persistencia local de Chroma
+chroma_persistent_storage/
+chroma_persistent_storage/*
+
+# Entornos locales
+.venv/
+.envrc
+
+# Archivos de sistema
+.DS_Store
